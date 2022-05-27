@@ -16,6 +16,6 @@ class Student:
     def initials(self):
         return f"My initials are {self.first_name[0] + self.given_name[0]}"
         
-        
+    
    
    

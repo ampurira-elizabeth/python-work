@@ -18,4 +18,3 @@ class Account:
         return f"Thankyou for depositing ,your new balance is  {self.balance}"
     
         
-    
